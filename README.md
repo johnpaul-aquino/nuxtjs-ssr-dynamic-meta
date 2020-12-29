@@ -1,4 +1,5 @@
 # nuxtjs-ssr-dynamic-meta
+<<<<<<< HEAD
 
 ## Build Setup
 
@@ -18,3 +19,6 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+=======
+Implementing dynamic metas for search engine optimization
+>>>>>>> 3f4041ec0b2fb176ae5b51e6d4823a8251fc620e
